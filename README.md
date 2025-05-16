@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Nicolas</h1>&nbsp;
 <p align="center">Currently studying Systems Analysis and Development at Instituto Federal do Paraná (IFPR)</p>&nbsp;
+<p align="center">Working as a software developer intern at BNE - Banco Nacional de Empregos</p>&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
