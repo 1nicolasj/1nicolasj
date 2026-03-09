@@ -1,9 +1,14 @@
 <h1 align="center">Olá! 👋 Eu sou o Nicolas</h1>
 <p align="center"><b>Desenvolvedor Back-end .NET | C# | ASP.NET Core</b></p>
 
-<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=1nicolasj&theme=radical&mode=daily" alt="GitHub Streak" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nicolasj&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
+  <a href="https://github.com/1nicolasj">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=1nicolasj&bg_color=0D1117&color=512BD4&line=512BD4&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20(Last%2031%20Days)" alt="Gráfico de Atividade" />
+  </a>
+</div>
+
+<div align="center" style="margin-bottom: 30px;">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=1nicolasj&theme=dark&background=0D1117&ring=512BD4&fire=512BD4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=512BD4&sideLabels=FFFFFF&dates=FFFFFF&border=512BD4" alt="GitHub Streak" />
 </div>
 
 ---
@@ -40,7 +45,7 @@
 #### 🛠️ DevOps, Mensageria & Ferramentas
 <br/>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,azure,git,github,postman,visualstudio,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,azure,git,github,postman,docker" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
