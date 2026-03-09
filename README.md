@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-#### 🛠️ DevOps, Mensageria & Ferramentas
+#### DevOps, Mensageria & Ferramentas
 <br/>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,azure,git,github,postman,docker" />
