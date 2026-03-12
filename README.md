@@ -31,6 +31,12 @@
   <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Dapper-FF3300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+#### Front-end & Formatos
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,json,html,css" />
 </p>
 
 #### Bancos de Dados & Persistência
