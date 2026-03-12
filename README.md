@@ -1,5 +1,8 @@
-<h1 align="center">Olá! 👋 Eu sou o Nicolas</h1>
-<p align="center"><b>Desenvolvedor Back-end .NET | C# | ASP.NET Core</b></p>
+<div align="center">
+  <a href="https://github.com/1nicolasj">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=512BD4&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+o+Nicolas;Desenvolvedor+Back-end+.NET+%7C+C%23" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
   <a href="https://github.com/1nicolasj">
