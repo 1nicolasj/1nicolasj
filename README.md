@@ -19,40 +19,38 @@
 ### 🚀 Sobre mim
 - 🏢 Atuando na manutenção e evolução do BNE, o maior site de vagas de emprego do Brasil.
 - 🎓 Pós-graduando em **Engenharia de Software** (Descomplica) e Formado em **Análise e Desenvolvimento de Sistemas** (IFPR).
-- 💡 Foco atual: Aprofundar em mensageria, monitoramento de aplicações e boas práticas (SOLID, Design Patterns).
+- 💡 Foco atual: Aprofundar em microsserviços, mensageria e boas práticas (SOLID, Design Patterns).
 
 <br>
 
 ### 💻 Tech Stack
 
-#### Back-end & Arquitetura
-<br/>
+#### Back-end
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,swagger" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dapper-FF3300?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-#### Front-end & Formatos
+#### Front-end
 <p align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=js,json,html,css" />
 </p>
+<img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
-#### Bancos de Dados & Persistência
-<br/>
+
+#### Banco de Dados
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-FF3300?style=for-the-badge" />
 </p>
 
-#### DevOps, Mensageria & Ferramentas
-<br/>
+#### DevOps, Mensageria e Ferramentas
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,azure,git,github,postman,docker" />
 </p>
