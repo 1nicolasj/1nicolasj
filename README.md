@@ -16,14 +16,15 @@
 
 ---
 
-### 🚀 Sobre mim
-- 🏢 Atuando na manutenção e evolução do BNE, o maior site de vagas de emprego do Brasil.
-- 🎓 Pós-graduando em **Engenharia de Software** (Descomplica) e Formado em **Análise e Desenvolvimento de Sistemas** (IFPR).
-- 💡 Foco atual: Aprofundar em microsserviços, mensageria e boas práticas (SOLID, Design Patterns).
+###  Sobre mim
+-  **Desenvolvedor Back-end no BNE:** Resolvendo desafios de escalabilidade e garantindo a resiliência do maior site de vagas de emprego do Brasil.
+-  **Engenharia & Arquitetura:** Foco na construção de sistemas de alta concorrência e arquiteturas desacopladas. Experiência prática na implementação de **Clean Architecture, DDD e CQRS**.
+-  **Ecossistema & Performance:** Atuação direta com mensageria assíncrona (RabbitMQ, Dead Letter Exchanges), e design de APIs robustas.
+-  Pós-graduando em **Engenharia de Software** (Descomplica) | Graduado em **Análise e Desenvolvimento de Sistemas** (IFPR).
 
 <br>
 
-### 💻 Tech Stack
+###  Tech Stack
 
 #### Back-end
 <p align="left">
@@ -58,11 +59,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scalar-3D454A?style=for-the-badge" />
 </p>
 
 ---
 
-### 🤝 Como me encontrar
+###  Como me encontrar
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolas-jose-dsds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-512BD4?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
