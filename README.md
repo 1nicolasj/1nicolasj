@@ -27,7 +27,7 @@
 
 #### Back-end
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,swagger" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=for-the-badge" />
@@ -42,17 +42,18 @@
 
 #### Banco de Dados
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,redis" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Dapper-FF3300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apache-solr&logoColor=white" />
 </p>
 
 #### DevOps, Mensageria e Ferramentas
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,azure,git,github,postman,docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,azure,git,github,postman,docker,swagger" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
