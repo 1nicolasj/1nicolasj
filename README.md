@@ -4,14 +4,21 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
-  <a href="https://github.com/1nicolasj">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=1nicolasj&bg_color=0D1117&color=512BD4&line=512BD4&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20(Last%2031%20Days)" alt="Activity Graph" />
-  </a>
-</div>
-
-<div align="center" style="margin-bottom: 30px;">
-  <img height="160em" src="https://streak-stats.demolab.com?user=1nicolasj&theme=dark&background=0D1117&ring=512BD4&fire=512BD4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=512BD4&sideLabels=FFFFFF&dates=FFFFFF&border=512BD4" alt="GitHub Streak" />
+<div align="center" style="margin-top: 25px; margin-bottom: 25px;">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" valign="top" style="padding-right: 12px; border: none;">
+        <a href="https://github.com/1nicolasj">
+          <img height="185em" src="https://github-readme-stats.vercel.app/api?username=1nicolasj&show_icons=true&theme=dark&bg_color=0D1117&title_color=512BD4&text_color=FFFFFF&icon_color=512BD4&border_color=512BD4&hide_border=false" alt="Nicolas's GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="top" style="padding-left: 12px; border: none;">
+        <a href="https://github.com/1nicolasj">
+          <img height="185em" src="https://streak-stats.demolab.com?user=1nicolasj&theme=dark&background=0D1117&ring=512BD4&fire=512BD4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=512BD4&sideLabels=FFFFFF&dates=FFFFFF&border=512BD4" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
