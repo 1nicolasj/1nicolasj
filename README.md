@@ -1,30 +1,30 @@
 <div align="center">
   <a href="https://github.com/1nicolasj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=512BD4&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+o+Nicolas;Desenvolvedor+Back-end+.NET+%7C+C%23" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=512BD4&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+%F0%9F%91%8B+I'm+Nicolas;.NET+Back-end+Developer+%7C+C%23" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
   <a href="https://github.com/1nicolasj">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=1nicolasj&bg_color=0D1117&color=512BD4&line=512BD4&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20(Last%2031%20Days)" alt="Gráfico de Atividade" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=1nicolasj&bg_color=0D1117&color=512BD4&line=512BD4&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20(Last%2031%20Days)" alt="Activity Graph" />
   </a>
 </div>
 
 <div align="center" style="margin-bottom: 30px;">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=1nicolasj&theme=dark&background=0D1117&ring=512BD4&fire=512BD4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=512BD4&sideLabels=FFFFFF&dates=FFFFFF&border=512BD4" alt="GitHub Streak" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=1nicolasj&theme=dark&background=0D1117&ring=512BD4&fire=512BD4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=512BD4&sideLabels=FFFFFF&dates=FFFFFF&border=512BD4" alt="GitHub Streak" />
 </div>
 
 ---
 
-###  Sobre mim
--  **Desenvolvedor Back-end no BNE:** Resolvendo desafios de escalabilidade e garantindo a resiliência do maior site de vagas de emprego do Brasil.
--  **Engenharia & Arquitetura:** Foco na construção de sistemas de alta concorrência e arquiteturas desacopladas. Experiência prática na implementação de **Clean Architecture, DDD e CQRS**.
--  **Ecossistema & Performance:** Atuação direta com mensageria assíncrona (RabbitMQ, Dead Letter Exchanges), e design de APIs robustas.
--  Pós-graduando em **Engenharia de Software** (Descomplica) | Graduado em **Análise e Desenvolvimento de Sistemas** (IFPR).
+### About Me
+- **Back-end Developer at BNE:** Solving scalability challenges and ensuring the resilience of Brazil's largest job board.
+- **Engineering & Architecture:** Focused on building high-concurrency systems and decoupled architectures. Hands-on experience implementing **Clean Architecture, DDD, and CQRS**.
+- **Ecosystem & Performance:** Direct experience with asynchronous messaging (RabbitMQ, Dead Letter Exchanges) and designing robust APIs.
+- Postgraduate student in **Software Engineering** (Descomplica) | B.S. in **Systems Analysis and Development** (IFPR).
 
 <br>
 
-###  Tech Stack
+### Tech Stack
 
 #### Back-end
 <p align="left">
@@ -36,12 +36,13 @@
 
 #### Front-end
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,json,html,css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,json,html,css" />
 </p>
-<img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-
-#### Banco de Dados
+#### Databases & Search
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,redis" />
 </p>
@@ -52,7 +53,7 @@
   <img src="https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apache-solr&logoColor=white" />
 </p>
 
-#### DevOps, Mensageria e Ferramentas
+#### DevOps, Messaging & Tools
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,azure,git,github,postman,docker,swagger" />
 </p>
@@ -64,7 +65,7 @@
 
 ---
 
-###  Como me encontrar
+### Connect with me!
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolas-jose-dsds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-512BD4?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
