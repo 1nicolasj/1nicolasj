@@ -1,9 +1,9 @@
-sname: GitHub Profile 3D Contrib
+name: GitHub Profile 3D Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" 
-  workflow_dispatch: 
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,7 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          ENABLE_LANGUAGE: "false"
+          SETTING_JSON: '{"languagelist": {"exclude": ["HTML", "Astro", "TypeScript", "CSS", "JavaScript", "other"]}}'
       - name: Commit & Push SVG
         run: |
           git config user.name "github-actions[bot]"
