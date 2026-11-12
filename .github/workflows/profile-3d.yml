@@ -15,27 +15,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Create custom config
-        run: |
-          cat << 'EOF' > /tmp/3d-config.json
-          {
-            "type": "night-view",
-            "contrib": {
-              "languagelist": false
-            }
-          }
-          EOF
-
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: /tmp/3d-config.json
+          SETTING_JSON: config.json
 
       - name: Commit & Push SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/
-          git commit -m "chore: update 3d contribution graph" || exit 0
+          git add profile-3d-contrib/ config.json
+          git commit -m "chore: update 3d contribution graph and config" || exit 0
           git push
