@@ -14,7 +14,7 @@
 
 ### About Me
 
-- **Back-end Developer at BNE:** Designing and maintaining event-driven .NET services and Kubernetes workers processing **3M+ emails/month** and indexing **24M+ resumes** across Brazil's largest job board.
+- **Back-end Developer at BNE:** Designing and maintaining event-driven .NET services and Kubernetes workers processing **3M+ emails/month** and indexing **29M+ resumes** across Brazil's largest job board.
 - **Architecture & Messaging:** Focused on high-throughput, resilient systems using **Clean Architecture, DDD, CQRS**, and asynchronous pipelines with **RabbitMQ** (idempotency, delayed queues, DLX, and batch processing).
 - **Applied AI & Search:** Hands-on experience integrating **LLMs** into asynchronous workflows (1,000+ daily resume extractions) and building relevance/geo-filtered search engines with **Apache Solr** and **Elasticsearch**.
 - **Education:** Postgraduate student in **Software Engineering** (Descomplica) | B.S. in **Systems Analysis and Development** (IFPR).
@@ -30,7 +30,7 @@
   "environment": "Production (.NET 8)",
   "metrics": {
     "throughput": "3M+ messages/month",
-    "search_index": "24M+ documents (Solr / Elasticsearch)",
+    "search_index": "29M+ documents (Solr / Elasticsearch)",
     "llm_pipeline": "1,000+ daily async extractions",
     "architecture": ["Clean Architecture", "DDD", "CQRS", "Event-Driven"]
   }
