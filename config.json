@@ -1,0 +1,20 @@
+{
+  "values": {
+    "title": "GitHub Profile 3D Contributions",
+    "box_size": 2,
+    "box_margin": 2,
+    "opacity": 1.0,
+    "angle_x": 25,
+    "angle_y": -45,
+    "angle_z": 0,
+    "filament_height_factor": 1.0
+  },
+  "colors": [
+    "#161B22",
+    "#0e4429",
+    "#006d32",
+    "#26a641",
+    "#39d353"
+  ],
+  "languagelist": false
+}
