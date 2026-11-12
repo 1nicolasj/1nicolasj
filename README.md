@@ -6,9 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/1nicolasj">
-    <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=1nicolasj&show_icons=true&theme=dark&bg_color=0D1117&title_color=512BD4&text_color=FFFFFF&icon_color=512BD4&border_color=512BD4&hide_border=false" alt="Nicolas's GitHub Stats" />
-  </a>
-  <a href="https://github.com/1nicolasj">
     <img height="175em" src="https://streak-stats.demolab.com?user=1nicolasj&theme=dark&background=0D1117&ring=512BD4&fire=512BD4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=512BD4&sideLabels=FFFFFF&dates=FFFFFF&border=512BD4" alt="GitHub Streak" />
   </a>
 </div>
@@ -24,48 +21,50 @@
 
 ---
 
+### System Architecture & Telemetry
+
+```json
+{
+  "service": "nicolas-santos-backend",
+  "status": "HEALTHY",
+  "environment": "Production (.NET 8)",
+  "metrics": {
+    "throughput": "3M+ messages/month",
+    "search_index": "24M+ documents (Solr / Elasticsearch)",
+    "llm_pipeline": "1,000+ daily async extractions",
+    "architecture": ["Clean Architecture", "DDD", "CQRS", "Event-Driven"]
+  }
+}
+```
+
+---
+
 ### Tech Stack
 
-#### Core & Architecture
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-161B22?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-161B22?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-161B22?style=for-the-badge)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-161B22?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,rabbitmq,elasticsearch,azure,kubernetes,docker,grafana,git,github&perline=12" alt="Tech Icons" />
+</p>
 
-#### Data, Messaging & Search
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-161B22?style=for-the-badge)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-#### Cloud, Containers & Observability
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes_(AKS)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-#### Tools & API Ecosystem
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Scalar](https://img.shields.io/badge/Scalar-161B22?style=for-the-badge)
-![LLM Integration](https://img.shields.io/badge/LLM_Integrations-512BD4?style=for-the-badge)
+| Domain | Technologies & Patterns |
+| :--- | :--- |
+| **Core & Architecture** | <kbd>C#</kbd> <kbd>.NET 8</kbd> <kbd>ASP.NET Core</kbd> <kbd>Worker Services</kbd> <kbd>Clean Architecture</kbd> <kbd>DDD</kbd> <kbd>CQRS</kbd> <kbd>SOLID</kbd> <kbd>Event-Driven</kbd> |
+| **Data, Messaging & Search** | <kbd>SQL Server</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>Dapper</kbd> <kbd>EF Core</kbd> <kbd>RabbitMQ (DLX)</kbd> <kbd>Apache Solr</kbd> <kbd>Elasticsearch</kbd> |
+| **Cloud & Observability** | <kbd>Azure</kbd> <kbd>Kubernetes (AKS)</kbd> <kbd>Docker</kbd> <kbd>Kibana</kbd> <kbd>Grafana</kbd> <kbd>Azure DevOps (CI/CD)</kbd> |
+| **APIs & AI Integration** | <kbd>RESTful APIs</kbd> <kbd>BFF</kbd> <kbd>Swagger / OpenAPI</kbd> <kbd>Scalar</kbd> <kbd>LLM Pipelines</kbd> |
 
 ---
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-jose-dsds/)
-[![Gmail](https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1nicolas.dasilvaa@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolas-jose-dsds/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-512BD4?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:1nicolas.dasilvaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-512BD4?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+  </a>
+</p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=100&section=footer"/>
